@@ -76,6 +76,12 @@ header div h1 {
     text-transform: uppercase;
 }
 
+header button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
 header form {
     display: flex;
     gap: 0.5rem;
